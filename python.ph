@@ -1,0 +1,2 @@
+echo $ shell 
+echo $HOME 
