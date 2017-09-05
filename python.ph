@@ -1,2 +1,6 @@
 echo $ shell 
-echo $HOME 
+echo $HOME
+hslfds
+dnglkdh
+ngdlkdf
+ 
